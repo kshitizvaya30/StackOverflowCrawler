@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "addressit": "^1.7.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cli-table": "^0.3.11",
+    "cluster": "^0.7.7",
+    "jest": "^27.4.7",
+    "jsonframe-cheerio": "^3.0.1",
+    "mongodb": "^4.3.1",
+    "mongodb-memory-server": "^8.2.0",
+    "mongoose": "^6.1.9",
+    "pdfkit": "^0.13.0",
+    "pdfkit-table": "^0.1.85",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
